@@ -1,0 +1,15 @@
+.box1{
+    border: 3px solid rgb(61, 117, 154);
+    margin: 15%;
+    padding: 5% 13%;
+    background-color: green;
+    background-image: url("https://marketplace.canva.com/EAFCO6pfthY/1/0/1600w/canva-blue-green-watercolor-linktree-background-F2CyNS5sQdM.jpg");
+    border-radius: 5%;
+}
+.box1 input{
+    border-radius: 0.5em;
+    height: 30px;
+}
+button{
+    margin-left: 20%;
+}
